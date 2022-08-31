@@ -1,16 +1,30 @@
-### Hi there 👋
+# Olá, eu sou Cristiane Rodrigues, desenvolvedora e designer! 🚀🚀🚀
 
-<!--
-**crodsil/crodsil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🟣 Atualmente trabalho como desenvolvedora Frontend;
+<div align="center">
+  <a href="https://github.com/crodsil">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crodsil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crodsil&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Cris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Cris-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Cris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Cris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Cris-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Cris-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="right" alt="Cris-pic" height="150" style="border-radius:50px;" src="https://images-ext-2.discordapp.net/external/LyJnlgfTXnr4E569n9ruV20ltah5cwJVW0PuZr3gyuA/https/picrew.me/shareImg/org/202208/700620_GD0g4LzX.png?width=449&height=449">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:cristiane.rodriguesdasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cristiane-rodrigues-da-silva-856bab43" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/crodsil/crodrsil/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	
