@@ -1,4 +1,4 @@
-# Olá, eu sou Cristiane Rodrigues, desenvolvedora e designer! 🚀🚀🚀
+# Olá, eu sou Cristiane Rodrigues, DataViz! 🚀🚀🚀
 
  🟣 Atualmente trabalho como desenvolvedora Frontend;
 <div align="center">
