@@ -1,6 +1,6 @@
 # Olá, eu sou Cristiane Rodrigues, DataViz! 🚀🚀🚀
 
- 🟣 Atualmente trabalho como desenvolvedora Frontend;
+ 🟣 Atualmente trabalho como Especialista em Data Visualização e Storytelling. Amo Dados, porque eles não contam apenas uma história, eles decidem a história!;
 <div align="center">
   <a href="https://github.com/crodsil">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crodsil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
