@@ -1,12 +1,7 @@
 # Olá, eu sou Cristiane Rodrigues, DataViz! 🚀🚀🚀
 
  🟣 Atualmente trabalho como Especialista em Data Visualização e Storytelling. Amo Dados, porque eles não contam apenas uma história, eles decidem a história!;
-<div align="center">
-  <a href="https://github.com/crodsil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crodsil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crodsil&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cris-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
